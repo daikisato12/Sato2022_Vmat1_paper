@@ -1,0 +1,12 @@
+MCODE App Results
+Date: Nov 28, 2020, 5:39:10 PM
+
+Parameters:
+   Network Scoring:
+      Include Loops: true  Degree Cutoff: 5
+   Cluster Finding:
+      Node Score Cutoff: 0.6  Haircut: true  Fluff: true  Fluff Density Cutoff 0.2  K-Core: 3  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	6.189	52	164	Rpe65, P2ry1, Gdnf, Adora2a, Gng7, Gpr88, Pcp4, Pde10a, Gpr6, Ppp1r1b, Rxfp1, Drd2, Adra2b, Npsr1, Pde1c, Gnal, Pde1b, Drd1a, Rgs9, Six3, Pde7b, Adcy5, Syndig1l, Rasgrp2, Lrrc10b, Rem2, Slc35d3, Pcsk9, Chrdl1, Kcnj2, Itpr1, Opn3, Prkch, Arpp21, Arpp19, Rasd2, Ano3, Rspo2, Ankk1, Grm4, Htr1b, Htr1d, Foxp2, Penk, Mme, Pdyn, Foxp1, Tac1, Tcfl5, Grb7, Nt5e, Ido1
+2	2.706	16	23	Epha8, Isl1, Ebf1, Six3, Pou3f4, Meis2, Dlx6, Satb2, Sema5b, Serpina9, Foxp2, Mme, Foxp1, Wnt2, Mafa, Ephb1

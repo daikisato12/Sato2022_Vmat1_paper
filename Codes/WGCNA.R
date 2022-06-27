@@ -20,7 +20,7 @@ library(igraph)
 #options(stringsAsFactors = FALSE);
 allowWGCNAThreads(10) #enableWGCNAThreads() doesn't work
 
-dir <- "/Users/dsato/Dropbox/Programming/Git/Sato2022_Vmat1_paper"
+dir <- "/$HOME/PROJECTDIR"
 df_c <- readr::read_delim(paste0(dir, "/Data/Diff_expression_all_comparisons.tsv"), delim="\t") %>%
   rename(Geneid = "Row-names")
 
